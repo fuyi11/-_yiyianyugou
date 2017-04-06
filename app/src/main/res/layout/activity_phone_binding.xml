@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.team.azusa.yiyuan.yiyuan_activity.PhoneBindingActivity">
+    tools:context="com.team.azusa.yiyuanfuxia.yiyuan_activity.PhoneBindingActivity">
 
     <RelativeLayout
         android:id="@+id/phone_binding"

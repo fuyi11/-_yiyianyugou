@@ -42,7 +42,7 @@
         android:layout_marginTop="20dp"
         android:background="@drawable/login_layoutshape">
 
-        <com.team.azusa.yiyuan.widget.ClearEditText
+        <com.team.azusa.yiyuanfuxia.widget.ClearEditText
             android:id="@+id/username"
             style="@style/edit_username"
             android:layout_width="fill_parent"
@@ -55,7 +55,7 @@
             android:layout_centerInParent="true"
             android:background="#cccccc"/>
 
-        <com.team.azusa.yiyuan.widget.ClearEditText
+        <com.team.azusa.yiyuanfuxia.widget.ClearEditText
             android:id="@+id/password"
             style="@style/edit_password"
             android:layout_width="fill_parent"

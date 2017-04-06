@@ -20,7 +20,7 @@
             android:textColor="#666666"
             android:textSize="18sp" />
 
-        <com.team.azusa.yiyuan.widget.PayPwdEnterView
+        <com.team.azusa.yiyuanfuxia.widget.PayPwdEnterView
             android:id="@+id/edit_pwd"
             android:layout_width="wrap_content"
             android:layout_height="42dp"

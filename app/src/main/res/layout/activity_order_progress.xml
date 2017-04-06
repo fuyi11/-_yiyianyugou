@@ -123,7 +123,7 @@
                     android:layout_marginTop="4dp"
                     android:background="#dddddd" />
 
-                <com.team.azusa.yiyuan.widget.WrapHeightListView
+                <com.team.azusa.yiyuanfuxia.widget.WrapHeightListView
                     android:id="@+id/lv_orderprogress"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

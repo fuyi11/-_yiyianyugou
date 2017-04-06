@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.team.azusa.yiyuan.yiyuan_goods_fragment.ResultFragment">
+    tools:context="com.team.azusa.yiyuanfuxia.yiyuan_goods_fragment.ResultFragment">
 
     <LinearLayout
         android:id="@+id/layout_result_bottom"
@@ -193,7 +193,7 @@
                             android:layout_height="90dp"
                             android:gravity="center_vertical">
 
-                            <com.team.azusa.yiyuan.widget.WrapHeightGridView
+                            <com.team.azusa.yiyuanfuxia.widget.WrapHeightGridView
                                 android:id="@+id/WHGV1"
                                 android:layout_width="match_parent"
                                 android:layout_height="90dp"

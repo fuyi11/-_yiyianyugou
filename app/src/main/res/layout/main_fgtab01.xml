@@ -61,7 +61,7 @@
                     android:layout_height="wrap_content"
                     android:orientation="vertical">
 
-                    <com.team.azusa.yiyuan.widget.FlashView
+                    <com.team.azusa.yiyuanfuxia.widget.FlashView
                         android:id="@+id/flash_view"
                         android:layout_width="match_parent"
                         android:layout_height="176dp" />
@@ -209,7 +209,7 @@
                     android:layout_height="0.5dp"
                     android:background="#ff9900" />
 
-                <com.team.azusa.yiyuan.widget.WrapScrollRview
+                <com.team.azusa.yiyuanfuxia.widget.WrapScrollRview
                     android:id="@+id/recyclerview_newpublic"
                     android:layout_width="wrap_content"
                     android:layout_height="148dp"

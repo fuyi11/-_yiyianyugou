@@ -258,7 +258,7 @@
                     android:textColor="#999999"
                     android:textSize="12sp"/>
 
-                <com.team.azusa.yiyuan.widget.WiperSwitch
+                <com.team.azusa.yiyuanfuxia.widget.WiperSwitch
                     android:id="@+id/wiperSwitch"
                     android:layout_width="25dp"
                     android:layout_height="wrap_content"

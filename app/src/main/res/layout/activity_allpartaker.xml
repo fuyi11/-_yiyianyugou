@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.team.azusa.yiyuan.yiyuan_activity.AllPartakerActivity">
+    tools:context="com.team.azusa.yiyuanfuxia.yiyuan_activity.AllPartakerActivity">
 
     <RelativeLayout
         android:id="@+id/all_pt"
@@ -37,7 +37,7 @@
 
     </RelativeLayout>
 
-    <com.team.azusa.yiyuan.widget.PulluptoRefreshListview
+    <com.team.azusa.yiyuanfuxia.widget.PulluptoRefreshListview
         android:id="@+id/all_partaker_recordlv"
         android:layout_below="@id/all_pt"
         android:layout_width="match_parent"

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.team.azusa.yiyuan">
+    package="com.team.azusa.yiyuanfuxia">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -28,51 +28,51 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
-        android:name=".app.app"
+        android:name="com.team.azusa.yiyuanfuxia.app.app"
         android:allowBackup="true"
         android:icon="@drawable/logo"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".yiyuan_activity.WelcomeActivity"
+            android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.WelcomeActivity"
             android:label="@string/app_name" />
-        <activity android:name=".yiyuan_activity.LoginActivity" />
-        <activity android:name=".yiyuan_activity.UsermsgActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.LoginActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.UsermsgActivity" />
         <activity
-            android:name=".yiyuan_activity.MainActivity"
+            android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.MainActivity"
             android:launchMode="singleTask" />
-        <activity android:name=".yiyuan_activity.MyBuyRecordActivity" />
-        <activity android:name=".yiyuan_activity.MyAddressActivity" />
-        <activity android:name=".yiyuan_activity.NewAddressActivity" />
-        <activity android:name=".yiyuan_activity.SettingActivity" />
-        <activity android:name=".yiyuan_activity.GoodsDetailsActivity" />
-        <activity android:name=".yiyuan_activity.PhotoTextActivity" />
-        <activity android:name=".yiyuan_activity.AllPartakerActivity" />
-        <activity android:name=".yiyuan_activity.ShowOrderActivity" />
-        <activity android:name=".yiyuan_activity.ResultActivity" />
-        <activity android:name=".yiyuan_activity.MoreShoppingNumberActivity" />
-        <activity android:name=".yiyuan_activity.SearchActivity" />
-        <activity android:name=".yiyuan_activity.MyGaingoodsActivity" />
-        <activity android:name=".yiyuan_activity.MyShareOrderActivity" />
-        <activity android:name=".yiyuan_activity.YunNumberActivity" />
-        <activity android:name=".yiyuan_activity.YunRecordDetailActivity" />
-        <activity android:name=".yiyuan_activity.EditProfileActivity" />
-        <activity android:name=".yiyuan_activity.PhotoSelectActivity" />
-        <activity android:name=".yiyuan_activity.ShareOrderDetailActivity" />
-        <activity android:name=".yiyuan_activity.NewShareOrderActivity" />
-        <activity android:name=".yiyuan_activity.AccountDetailsActivity" />
-        <activity android:name=".yiyuan_activity.OrderProgressActivity" />
-        <activity android:name=".yiyuan_activity.SuggestionsActivity" />
-        <activity android:name=".yiyuan_activity.AboutUsActivity" />
-        <activity android:name=".yiyuan_activity.AlterUserNameActivity" />
-        <activity android:name=".yiyuan_activity.PhoneBindingActivity" />
-        <activity android:name=".yiyuan_activity.SafeActivity" />
-        <activity android:name=".yiyuan_activity.AlterLoginPasswordActivity" />
-        <activity android:name=".yiyuan_activity.SetPayPasswordActivity" />
-        <activity android:name=".yiyuan_activity.AlterQQActivity" />
-        <activity android:name=".yiyuan_activity.AlterSignatureActivity" />
-        <activity android:name=".yiyuan_activity.SettingHelpActivity" />
-        <activity android:name=".yiyuan_activity.ServiceAgreementActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.MyBuyRecordActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.MyAddressActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.NewAddressActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.SettingActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.GoodsDetailsActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.PhotoTextActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.AllPartakerActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.ShowOrderActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.ResultActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.MoreShoppingNumberActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.SearchActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.MyGaingoodsActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.MyShareOrderActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.YunNumberActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.YunRecordDetailActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.EditProfileActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.PhotoSelectActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.ShareOrderDetailActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.NewShareOrderActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.AccountDetailsActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.OrderProgressActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.SuggestionsActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.AboutUsActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.AlterUserNameActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.PhoneBindingActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.SafeActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.AlterLoginPasswordActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.SetPayPasswordActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.AlterQQActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.AlterSignatureActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.SettingHelpActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.ServiceAgreementActivity" />
 
         <!-- Required SDK核心功能 -->
         <activity
@@ -161,7 +161,7 @@
 
         <!-- User defined. 用户自定义的广播接收器 -->
         <receiver
-            android:name=".receiver.JPReceiver"
+            android:name="com.team.azusa.yiyuanfuxia.receiver.JPReceiver"
             android:enabled="true">
             <intent-filter>
                 <action android:name="cn.jpush.android.intent.REGISTRATION" />
@@ -180,12 +180,12 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".yiyuan_activity.ForgetPasswordActivity" />
-        <activity android:name=".yiyuan_activity.ConfirmationActivity" />
-        <activity android:name=".yiyuan_activity.NewPasswordActivity" />
-        <activity android:name=".yiyuan_activity.RegisterActivity" />
-        <activity android:name=".yiyuan_activity.PayActivity" />
-        <activity android:name=".yiyuan_activity.SelectipActivity">
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.ForgetPasswordActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.ConfirmationActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.NewPasswordActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.RegisterActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.PayActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.SelectipActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -193,17 +193,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".yiyuan_activity.CalculateDetailsActivity"
+            android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.CalculateDetailsActivity"
             android:label="@string/title_activity_calculate_details"
             android:theme="@style/AppTheme" />
-        <activity android:name=".yiyuan_activity.PhotoViewActivity" />
-        <activity android:name=".yiyuan_activity.InputPayPasswordActivity" />
-        <activity android:name=".yiyuan_activity.IntPutPhoneActivity" />
-        <activity android:name=".yiyuan_activity.AlterPhoneActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.PhotoViewActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.InputPayPasswordActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.IntPutPhoneActivity" />
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.AlterPhoneActivity" />
         <activity
-            android:name=".yiyuan_activity.RechargeActivity"
+            android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.RechargeActivity"
             android:windowSoftInputMode="adjustUnspecified|stateHidden"></activity>
-        <activity android:name=".yiyuan_activity.UserVcardActivity"></activity>
+        <activity android:name="com.team.azusa.yiyuanfuxia.yiyuan_activity.UserVcardActivity"></activity>
     </application>
 
 </manifest>

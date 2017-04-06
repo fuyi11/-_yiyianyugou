@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="#ffffff">
 
-    <com.team.azusa.yiyuan.widget.PulluptoRefreshListview
+    <com.team.azusa.yiyuanfuxia.widget.PulluptoRefreshListview
         android:id="@+id/allgoods_lv"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

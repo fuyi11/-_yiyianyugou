@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.team.azusa.yiyuan.yiyuan_activity.MoreShoppingNumberActivity">
+    tools:context="com.team.azusa.yiyuanfuxia.yiyuan_activity.MoreShoppingNumberActivity">
 
     <RelativeLayout
         android:id="@+id/result_rl"

@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.team.azusa.yiyuan.widget.MyPhotoView
+    <com.team.azusa.yiyuanfuxia.widget.MyPhotoView
         android:id="@+id/photo_view_img"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

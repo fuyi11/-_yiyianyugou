@@ -125,7 +125,7 @@
         </RelativeLayout>
     </LinearLayout>
 
-    <com.team.azusa.yiyuan.widget.PulluptoRefreshListview
+    <com.team.azusa.yiyuanfuxia.widget.PulluptoRefreshListview
         android:id="@+id/lv_sharedetail"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -52,21 +52,21 @@
         android:gravity="center_vertical"
         android:orientation="horizontal">
 
-        <com.team.azusa.yiyuan.wheelview.WheelView
+        <com.team.azusa.yiyuanfuxia.wheelview.WheelView
             android:id="@+id/year"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"/>
 
-        <com.team.azusa.yiyuan.wheelview.WheelView
+        <com.team.azusa.yiyuanfuxia.wheelview.WheelView
             android:id="@+id/month"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"/>
 
-        <com.team.azusa.yiyuan.wheelview.WheelView
+        <com.team.azusa.yiyuanfuxia.wheelview.WheelView
             android:id="@+id/day"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"

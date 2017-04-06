@@ -117,7 +117,7 @@
         android:textColor="#888888"
         android:textSize="16sp" />
 
-    <com.team.azusa.yiyuan.widget.WrapHeightGridView
+    <com.team.azusa.yiyuanfuxia.widget.WrapHeightGridView
         android:id="@+id/gv_shareimg"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -83,7 +83,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <com.team.azusa.yiyuan.widget.WrapHeightListView
+            <com.team.azusa.yiyuanfuxia.widget.WrapHeightListView
                 android:id="@+id/lv_address"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -92,7 +92,7 @@
                 android:footerDividersEnabled="true"
                 android:scrollbars="none"
                 android:visibility="gone">
-            </com.team.azusa.yiyuan.widget.WrapHeightListView>
+            </com.team.azusa.yiyuanfuxia.widget.WrapHeightListView>
 
             <Button
                 android:id="@+id/bt_add_address"

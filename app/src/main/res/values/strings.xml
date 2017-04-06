@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">1元云购</string>
+    <string name="app_name">伏峡_1元云购</string>
     <string name="action_settings">Settings</string>
     <string name="please_input_username">请输入您的手机号/邮箱</string>
     <string name="pay_title">请选择支付方式</string>

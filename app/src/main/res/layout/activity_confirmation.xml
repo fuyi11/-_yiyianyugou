@@ -45,7 +45,7 @@
         android:textColor="#999999"
         android:textSize="13sp"/>
 
-    <com.team.azusa.yiyuan.widget.ClearEditText
+    <com.team.azusa.yiyuanfuxia.widget.ClearEditText
         android:id="@+id/confirmation_edit"
         android:layout_width="match_parent"
         android:layout_height="50dp"

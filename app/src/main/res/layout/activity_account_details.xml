@@ -135,19 +135,19 @@
             android:textColor="#888888"/>
     </LinearLayout>
 
-    <com.team.azusa.yiyuan.widget.PulluptoRefreshListview
+    <com.team.azusa.yiyuanfuxia.widget.PulluptoRefreshListview
         android:id="@+id/account_detials_chongzhi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/account_detials_types">
-    </com.team.azusa.yiyuan.widget.PulluptoRefreshListview>
+    </com.team.azusa.yiyuanfuxia.widget.PulluptoRefreshListview>
 
-    <com.team.azusa.yiyuan.widget.PulluptoRefreshListview
+    <com.team.azusa.yiyuanfuxia.widget.PulluptoRefreshListview
         android:id="@+id/account_detials_xiaofei"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/account_detials_types"
         android:visibility="gone">
-    </com.team.azusa.yiyuan.widget.PulluptoRefreshListview>
+    </com.team.azusa.yiyuanfuxia.widget.PulluptoRefreshListview>
 
 </RelativeLayout>

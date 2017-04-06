@@ -34,7 +34,7 @@
             android:textSize="16sp" />
 
 
-        <com.team.azusa.yiyuan.widget.ClearEditText
+        <com.team.azusa.yiyuanfuxia.widget.ClearEditText
             android:id="@+id/search_edt"
             style="@style/edit_search"
             android:layout_width="match_parent"
